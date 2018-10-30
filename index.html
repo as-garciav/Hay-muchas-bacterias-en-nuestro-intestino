@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>Tenemos muchas bacterias</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="styles/layout.css" type="text/css">
+<!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<div class="wrapper row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+      <h1><a href="#">Tenemos muchas bacterias</a></h1>
+      <h2>viviendo en nuestro sistema digestivo</h2>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="https://github.com/as-garciav/Hay-muchas-bacterias-en-nuestro-intestino">GitHub</a></li>
+        <li><a href="https://docs.google.com/presentation/d/1BKhYl2eR244f0gPyQzwiv3VE-39XMNownsrOCJDtZv4/edit?usp=sharing">PPT</a></li>
+        <li class="last"><a href="#">Video</a></li>
+      </ul>
+    </nav>
+  </header>
+</div>
+<!-- content -->
+<div class="wrapper row2">
+  <div id="container" class="clear">
+    <!-- Slider -->
+    <section id="slider" class="clear">
+      <figure><svg class="network" width=630 height=500 ></svg>
+        <figcaption>
+          <h2>La microbiota intestinal</h2>
+          <p>Los humanos tenemos aproximadamente 1.3 células microbianas por cada célula humana, lo que significa que como individuos tenemos más células bacterianas que células propias (Sender, et al. 2016). El intestino humano tiene cerca de 10<SUP>7</SUP> células bacterianas en el intestino delgado y 10<SUP>14</SUP> en el intestino grueso, lo que lleva a pensar en una permanente interacción entre el hospedero y las bacterias. Por lo tanto las bacterias tienen un importante rol en la salud humana (Huttenhower, et al.
+				2012).</p>
+        </figcaption>
+      </figure>
+    </section>
+    <!-- main content -->
+    <div id="homepage">
+      <!-- services area -->
+      <section id="services" class="clear">
+        <!-- article 1 -->
+        <article class="one_third">
+          <h2>What?</h2>
+          <img src="images/demo/80x80.gif" alt="">
+          <p>OTU (Operational Taxonomic Unit) table, que contiene en las filas las muestras disponibles y en las columnas los nombres de las bacterias encontradas en muestras fecales de cada uno de los individuos, el valor de cada celda corresponde a la abundancia absoluta de cada bacteria en cada muestra disponible.</p>
+          <ui>
+          	<p>Tipos de datos de interés para la visualización:</p>
+          	<li>Muestra: Categórico de tipo ID</li>
+          	<li>OTU: Categórico de tipo ID</li>
+          	<li>Abundancia absoluta: Ordinal Cuantitativa secuencial (0 - 15000)</li>
+          </ui>
+        </article>
+        <!-- article 2 -->
+        <article class="one_third">
+          <h2>Why?</h2>
+          <img src="images/demo/80x80.gif" alt="">
+          <p>Tarea principal: Idenrificar cuan compartidas se encuentran las bacterias entre las diferentes muestras (Tamara = Summarize:dependency)</p>
+          <ui>
+          	<p>Tareas secundarias:</p>
+          	<li>Identificar diferencias entre la distribución de abundancias de las diferentes OTU (Tamara = Identify:Features)</li>
+          	<li>Observar cuales OTUs son más abundantes a lo largo de las diferentes personas (Tamara = Locate:Outliers)</li>
+          	<li>A partir de los datos originales csv derivar información para crear una topología consistente entre las muestras y las bacterias disponibles (Tamara = Derive:topology)</li>
+          </ui>
+        </article>
+        <!-- article 3 -->
+        <article class="one_third lastbox">
+          <h2>How?</h2>
+          <img src="images/demo/80x80.gif" alt="">
+          <p>IDIOM radial network El primer IDIOM dot and linechart para describir la temperatura promedio de cada día (calculada previamente como parte del procesamiento de los datos para obtener la tabla de "AverageTemperature.txt")</p>
+          <ui>
+          	<p>Tipos de datos de interés para la visualización:</p>
+          	<li>Marcas: Líneas y Puntos --> El primero para detallar los datos categóricos como los nodos de la visualización, el segundo para hacer énfasis en la relación entre las bacterias y los individuos de la muestra.</li>
+          	<li>Canales: Arrange Networks and Trees --> Node-Link diagram, Separate by forces (Force directed placement) acompañado de un Layout density</li>
+          	<li>Encode => "Separate" muestras de bacterias, Map por saturación de color la abundancia absoluta de las bacterias en cada uno de los individuos, éste se complementa con el tamaño de la línea correspondiente (link). Todos los datos se observan en conjunto gracias a un Superimpose</li>
+          </ui>
+        </article>
+      </section>
+      <!-- / services area -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- ########################################################################################## -->
+      <!-- One Quarter -->
+      <section id="latest" class="last clear">
+        <article class="one_quarter">
+            <figcaption>
+              <h2>Insight principal</h2>
+              <p>Todas las bacterias tienen un alto número de conexiones con cada una de las personas de la muestra</p>
+            </figcaption>
+        </article>
+        <article class="one_quarter">
+            <figcaption>
+              <h2>Insight secundario 1</h2>
+              <p>Hay por lo menos 10 bacterias en cada uno de los individuos</p>
+            </figcaption>
+        </article>
+        <article class="one_quarter">
+            <figcaption>
+              <h2>Insight secundario 2</h2>
+              <p>Hay varias bacterias cuya abundancia relativa es muy alta entre todas las muestras</p>
+            </figcaption>
+        </article>
+        <article class="one_quarter lastbox">
+            <figcaption>
+              <h2>Insight secundario 3</h2>
+              <p>De forma aproximada se puede observar que cerca de 4 o 5 personas tienen una "baja" abundancia de casi todas las bacterias por la palidez de la coloración de todos sus links, dichos individuos 12, 18, 20 y 21, pueden ser de interés, ya que bajas abundancias de bacterias en ocasiones se han relacionado con ciertos estados de enfermedad</p>
+            </figcaption>
+        </article>
+      </section>
+      <!-- / One Quarter -->
+    </div>
+    <!-- / content body -->
+  </div>
+</div>
+<!-- Footer -->
+<div class="wrapper row3">
+  <footer id="footer" class="clear">
+    <p class="fl_left">Copyright &copy; 2018 - All Rights Reserved - <a href="#">Domain Name</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+  </footer>
+</div>
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+<style>
+
+
+</style>
+</head>
+<body>
+
+<div class="graphic">
+		<div class = "container">
+			<div class = "starter-template">
+				<h1>  </h1>
+			</div>	
+
+			<div class = "analysys-text">
+				<h3>  </h3>
+				<p> </p>
+				<h3> Sobre los datos </h3>
+				<p class = "lead"> Los presentes datos representan una pequeña muestra de 20 <i>Operational Taxonomic Unit </i>, que representan un taxón de bacterias (azul) presentes en la microbiota intestinal de 19 personas (naranja), cuya abundancia absoluta se describe en cuan intensa es la coloración azul de la conexión entre cada muestra y cada bacteria. </p>
+				<p></p>
+				<p class = "lead"> En la visualización es posible mover los diferentes puntos para reconocer con mayor facilidad cuan alto o bajo es el número de conecciones entre los mismos </p>
+
+			</div>
+		</div>
+    	<div class = "container">
+    		<h1>Futuros análisis: </h1>
+    		<p>Sería de interés Usar otras fuerzas con datos disponibles de salud y enfermedad para identificar las bacterias de interés en la salud humana. Entre otros análisis. De forma inmediata para observar con mayor claridad la información descrita se puede buscar un ordenamiento de las bacterias en base a los enlaces disponibles entre cada muestra y sus bacterias. </p>
+    		<h3> Referencias: </h3>
+    		<ul>
+    			<li><CITE> Sender, R., Fuchs, S., & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. PLoS biology, 14(8), e1002533. </CITE></li>
+    			<li><CITE> Huttenhower, C., Gevers, D., Knight, R., Abubucker, S., Badger, J. H., Chinwalla, A. T., ... & Giglio, M. G. (2012). Structure, function and diversity of the healthy human microbiome. Nature, 486(7402), 207. </CITE></li>
+    		</ul>
+    	</div>	
+</div>
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	<script src="js/Forces.js"></script>
+
+</body>
+</html>
