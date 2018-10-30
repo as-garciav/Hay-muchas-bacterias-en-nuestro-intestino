@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+<style>
+
+
+</style>
+</head>
+<body>
+
+<div class="graphic">
+		<div class = "container">
+			<div class = "starter-template">
+				<h1> Tenemos muchas bacterias viviendo en nuestro sistema digestivo </h1>
+			</div>	
+
+			<div class = "analysys-text">
+				<h3> La microbiota intestinal </h3>
+				<p> Los humanos tenemos aproximadamente 1.3 células microbianas por cada célula humana, lo que significa que como individuos tenemos más células bacterianas que células propias (Sender, et al. 2016). El intestino humano tiene cerca de 10<SUP>7</SUP> células bacterianas en el intestino delgado y 10<SUP>14</SUP> en el intestino grueso, lo que lleva a pensar en una permanente interacción entre el hospedero y las bacterias. Por lo tanto las bacterias tienen un importante rol en la salud humana (Huttenhower, et al.
+				2012).</p>
+				<h3> Sobre los datos </h3>
+				<p class = "lead"> Los presentes datos representan una pequeña muestra de 20 <i>Operational Taxonomic Unit </i>, que representan un taxón de bacterias (azul) presentes en la microbiota intestinal de 19 personas (naranja), cuya abundancia absoluta se describe en cuan intensa es la coloración azul de la conexión entre cada muestra y cada bacteria. </p>
+				<p></p>
+				<p class = "lead"> En la visualización es posible mover los diferentes puntos para reconocer con mayor facilidad cuan alto o bajo es el número de conecciones entre los mismos </p>
+
+			</div>
+		</div>
+    <svg class="network" width=800 height=800 ></svg>
+    	<div class = "container">
+    		<h1> Insights </h1>
+    		<ul>
+    			<li>Todas las bacterias tienen un alto número de conexiones con cada una de las personas de la muestra </li>
+    			<li>Hay varias bacterias cuya abundancia relativa es muy alta entre todas las muestras </li>
+    			<li>De forma aproximada se puede observar que cerca de 4 o 5 personas tienen una "baja" abundancia de casi todas las bacterias por la palidez de la coloración de todos sus links, dichos individuos 12, 18, 20 y 21, pueden ser de interés, ya que bajas abundancias de bacterias en ocasiones se han relacionado con ciertos estados de enfermedad (Huttenhower, et al. 2012) </li>
+    		</ul>
+
+    		<h1>Futuros análisis: </h1>
+    		<p>Sería de interés Usar otras fuerzas con datos disponibles de salud y enfermedad para identificar las bacterias de interés en la salud humana. Entre otros análisis. De forma inmediata para observar con mayor claridad la información descrita se puede buscar un ordenamiento de las bacterias en base a los enlaces disponibles entre cada muestra y sus bacterias. </p>
+    		<h3> Referencias: </h3>
+    		<ul>
+    			<li><CITE> Sender, R., Fuchs, S., & Milo, R. (2016). Revised estimates for the number of human and bacteria cells in the body. PLoS biology, 14(8), e1002533. </CITE></li>
+    			<li><CITE> Huttenhower, C., Gevers, D., Knight, R., Abubucker, S., Badger, J. H., Chinwalla, A. T., ... & Giglio, M. G. (2012). Structure, function and diversity of the healthy human microbiome. Nature, 486(7402), 207. </CITE></li>
+    		</ul>
+    	</div>	
+</div>
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+	<script src="js/Forces.js"></script>
+
+</body>
+</html>

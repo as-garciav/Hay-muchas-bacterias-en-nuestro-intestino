@@ -1,0 +1,2062 @@
+{"nodes": [
+  {
+    "id": "MI_001",
+    "group": "sample"
+  },
+  {
+    "id": "MI_002",
+    "group": "sample"
+  },
+  {
+    "id": "MI_003",
+    "group": "sample"
+  },
+  {
+    "id": "MI_006",
+    "group": "sample"
+  },
+  {
+    "id": "MI_007",
+    "group": "sample"
+  },
+  {
+    "id": "MI_008",
+    "group": "sample"
+  },
+  {
+    "id": "MI_009",
+    "group": "sample"
+  },
+  {
+    "id": "MI_010",
+    "group": "sample"
+  },
+  {
+    "id": "MI_011",
+    "group": "sample"
+  },
+  {
+    "id": "MI_012",
+    "group": "sample"
+  },
+  {
+    "id": "MI_013",
+    "group": "sample"
+  },
+  {
+    "id": "MI_014",
+    "group": "sample"
+  },
+  {
+    "id": "MI_015",
+    "group": "sample"
+  },
+  {
+    "id": "MI_016",
+    "group": "sample"
+  },
+  {
+    "id": "MI_017",
+    "group": "sample"
+  },
+  {
+    "id": "MI_018",
+    "group": "sample"
+  },
+  {
+    "id": "MI_019",
+    "group": "sample"
+  },
+  {
+    "id": "MI_020",
+    "group": "sample"
+  },
+  {
+    "id": "MI_021",
+    "group": "sample"
+  },
+  {
+    "id": "Otu00001",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00002",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00003",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00004",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00005",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00006",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00007",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00008",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00009",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00010",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00011",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00012",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00013",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00014",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00015",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00016",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00017",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00018",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00019",
+    "group": "OTU"
+  },
+  {
+    "id": "Otu00020",
+    "group": "OTU"
+  }
+],
+
+
+"links": [
+  {
+    "target": "Otu00001",
+    "source": "MI_001",
+    "abundance": 238
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_001",
+    "abundance": 547
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_001",
+    "abundance": 33
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_001",
+    "abundance": 20
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_001",
+    "abundance": 276
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_001",
+    "abundance": 355
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_001",
+    "abundance": 476
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_001",
+    "abundance": 240
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_001",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_001",
+    "abundance": 456
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_001",
+    "abundance": 178
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_001",
+    "abundance": 332
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_001",
+    "abundance": 33
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_001",
+    "abundance": 119
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_001",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_001",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_001",
+    "abundance": 311
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_001",
+    "abundance": 958
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_001",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_001",
+    "abundance": 353
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_002",
+    "abundance": 67
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_002",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_002",
+    "abundance": 44
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_002",
+    "abundance": 1147
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_002",
+    "abundance": 18
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_002",
+    "abundance": 3893
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_002",
+    "abundance": 217
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_002",
+    "abundance": 730
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_002",
+    "abundance": 36
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_002",
+    "abundance": 32
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_002",
+    "abundance": 1406
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_002",
+    "abundance": 748
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_002",
+    "abundance": 44
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_002",
+    "abundance": 48
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_002",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_002",
+    "abundance": 112
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_002",
+    "abundance": 81
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_002",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_002",
+    "abundance": 36
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_002",
+    "abundance": 20
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_003",
+    "abundance": 12
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_003",
+    "abundance": 86
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_003",
+    "abundance": 3141
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_003",
+    "abundance": 35
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_003",
+    "abundance": 520
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_003",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_003",
+    "abundance": 3024
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_003",
+    "abundance": 951
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_003",
+    "abundance": 713
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_003",
+    "abundance": 135
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_003",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_003",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_003",
+    "abundance": 137
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_003",
+    "abundance": 19
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_003",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_003",
+    "abundance": 59
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_003",
+    "abundance": 856
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_003",
+    "abundance": 482
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_003",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_003",
+    "abundance": 1189
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_006",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_006",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_006",
+    "abundance": 1035
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_006",
+    "abundance": 9
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_006",
+    "abundance": 251
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_006",
+    "abundance": 365
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_006",
+    "abundance": 1188
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_006",
+    "abundance": 385
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_006",
+    "abundance": 6
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_006",
+    "abundance": 509
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_006",
+    "abundance": 1089
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_006",
+    "abundance": 277
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_006",
+    "abundance": 1009
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_006",
+    "abundance": 151
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_006",
+    "abundance": 78
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_006",
+    "abundance": 123
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_006",
+    "abundance": 458
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_006",
+    "abundance": 236
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_006",
+    "abundance": 44
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_006",
+    "abundance": 19
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_007",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_007",
+    "abundance": 299
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_007",
+    "abundance": 968
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_007",
+    "abundance": 12
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_007",
+    "abundance": 1222
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_007",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_007",
+    "abundance": 677
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_007",
+    "abundance": 1112
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_007",
+    "abundance": 13
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_007",
+    "abundance": 63
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_007",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_007",
+    "abundance": 172
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_007",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_007",
+    "abundance": 726
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_007",
+    "abundance": 136
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_007",
+    "abundance": 67
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_007",
+    "abundance": 314
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_007",
+    "abundance": 33
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_007",
+    "abundance": 215
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_007",
+    "abundance": 40
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_008",
+    "abundance": 190
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_008",
+    "abundance": 130
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_008",
+    "abundance": 1204
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_008",
+    "abundance": 3134
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_008",
+    "abundance": 1000
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_008",
+    "abundance": 9
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_008",
+    "abundance": 96
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_008",
+    "abundance": 340
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_008",
+    "abundance": 62
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_008",
+    "abundance": 193
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_008",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_008",
+    "abundance": 30
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_008",
+    "abundance": 419
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_008",
+    "abundance": 51
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_008",
+    "abundance": 4
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_008",
+    "abundance": 771
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_008",
+    "abundance": 192
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_008",
+    "abundance": 1428
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_008",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_008",
+    "abundance": 811
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_009",
+    "abundance": 227
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_009",
+    "abundance": 66
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_009",
+    "abundance": 2011
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_009",
+    "abundance": 5
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_009",
+    "abundance": 37
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_009",
+    "abundance": 385
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_009",
+    "abundance": 267
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_009",
+    "abundance": 4869
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_009",
+    "abundance": 69
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_009",
+    "abundance": 1138
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_009",
+    "abundance": 159
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_009",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_009",
+    "abundance": 4
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_009",
+    "abundance": 48
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_009",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_009",
+    "abundance": 286
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_009",
+    "abundance": 145
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_009",
+    "abundance": 2548
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_009",
+    "abundance": 53
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_009",
+    "abundance": 125
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_010",
+    "abundance": 190
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_010",
+    "abundance": 1124
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_010",
+    "abundance": 1748
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_010",
+    "abundance": 32
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_010",
+    "abundance": 1039
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_010",
+    "abundance": 13
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_010",
+    "abundance": 185
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_010",
+    "abundance": 185
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_010",
+    "abundance": 11
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_010",
+    "abundance": 459
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_010",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_010",
+    "abundance": 185
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_010",
+    "abundance": 359
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_010",
+    "abundance": 1179
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_010",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_010",
+    "abundance": 121
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_010",
+    "abundance": 468
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_010",
+    "abundance": 261
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_010",
+    "abundance": 148
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_010",
+    "abundance": 1183
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_011",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_011",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_011",
+    "abundance": 374
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_011",
+    "abundance": 1656
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_011",
+    "abundance": 152
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_011",
+    "abundance": 98
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_011",
+    "abundance": 5155
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_011",
+    "abundance": 761
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_011",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_011",
+    "abundance": 25
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_011",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_011",
+    "abundance": 18
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_011",
+    "abundance": 86
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_011",
+    "abundance": 262
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_011",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_011",
+    "abundance": 36
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_011",
+    "abundance": 324
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_011",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_011",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_011",
+    "abundance": 1585
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_012",
+    "abundance": 55
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_012",
+    "abundance": 131
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_012",
+    "abundance": 1032
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_012",
+    "abundance": 18
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_012",
+    "abundance": 837
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_012",
+    "abundance": 178
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_012",
+    "abundance": 32
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_012",
+    "abundance": 5946
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_012",
+    "abundance": 28
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_012",
+    "abundance": 199
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_012",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_012",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_012",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_012",
+    "abundance": 151
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_012",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_012",
+    "abundance": 129
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_012",
+    "abundance": 307
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_012",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_012",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_012",
+    "abundance": 172
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_013",
+    "abundance": 84
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_013",
+    "abundance": 782
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_013",
+    "abundance": 66
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_013",
+    "abundance": 841
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_013",
+    "abundance": 26
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_013",
+    "abundance": 1026
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_013",
+    "abundance": 94
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_013",
+    "abundance": 50
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_013",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_013",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_013",
+    "abundance": 996
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_013",
+    "abundance": 1153
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_013",
+    "abundance": 447
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_013",
+    "abundance": 20
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_013",
+    "abundance": 512
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_013",
+    "abundance": 83
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_013",
+    "abundance": 190
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_013",
+    "abundance": 384
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_013",
+    "abundance": 177
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_013",
+    "abundance": 114
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_014",
+    "abundance": 8
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_014",
+    "abundance": 217
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_014",
+    "abundance": 3460
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_014",
+    "abundance": 131
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_014",
+    "abundance": 185
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_014",
+    "abundance": 681
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_014",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_014",
+    "abundance": 859
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_014",
+    "abundance": 813
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_014",
+    "abundance": 323
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_014",
+    "abundance": 5
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_014",
+    "abundance": 48
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_014",
+    "abundance": 438
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_014",
+    "abundance": 223
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_014",
+    "abundance": 171
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_014",
+    "abundance": 230
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_014",
+    "abundance": 56
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_014",
+    "abundance": 595
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_014",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_014",
+    "abundance": 380
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_015",
+    "abundance": 46
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_015",
+    "abundance": 423
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_015",
+    "abundance": 28
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_015",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_015",
+    "abundance": 104
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_015",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_015",
+    "abundance": 2792
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_015",
+    "abundance": 158
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_015",
+    "abundance": 11
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_015",
+    "abundance": 12
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_015",
+    "abundance": 1085
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_015",
+    "abundance": 791
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_015",
+    "abundance": 2121
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_015",
+    "abundance": 13
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_015",
+    "abundance": 518
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_015",
+    "abundance": 140
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_015",
+    "abundance": 488
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_015",
+    "abundance": 866
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_015",
+    "abundance": 1084
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_015",
+    "abundance": 13
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_016",
+    "abundance": 53
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_016",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_016",
+    "abundance": 713
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_016",
+    "abundance": 596
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_016",
+    "abundance": 33
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_016",
+    "abundance": 289
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_016",
+    "abundance": 4839
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_016",
+    "abundance": 1185
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_016",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_016",
+    "abundance": 2
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_016",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_016",
+    "abundance": 210
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_016",
+    "abundance": 9
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_016",
+    "abundance": 65
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_016",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_016",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_016",
+    "abundance": 130
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_016",
+    "abundance": 2618
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_016",
+    "abundance": 29
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_016",
+    "abundance": 497
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_017",
+    "abundance": 243
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_017",
+    "abundance": 1305
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_017",
+    "abundance": 2202
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_017",
+    "abundance": 7
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_017",
+    "abundance": 132
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_017",
+    "abundance": 486
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_017",
+    "abundance": 2170
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_017",
+    "abundance": 2466
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_017",
+    "abundance": 22
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_017",
+    "abundance": 64
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_017",
+    "abundance": 8
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_017",
+    "abundance": 76
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_017",
+    "abundance": 326
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_017",
+    "abundance": 63
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_017",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_017",
+    "abundance": 53
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_017",
+    "abundance": 75
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_017",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_017",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_017",
+    "abundance": 209
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_018",
+    "abundance": 133
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_018",
+    "abundance": 1213
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_018",
+    "abundance": 554
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_018",
+    "abundance": 989
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_018",
+    "abundance": 121
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_018",
+    "abundance": 1
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_018",
+    "abundance": 3
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_018",
+    "abundance": 152
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_018",
+    "abundance": 358
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_018",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_018",
+    "abundance": 17
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_018",
+    "abundance": 334
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_018",
+    "abundance": 70
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_018",
+    "abundance": 212
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_018",
+    "abundance": 4
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_018",
+    "abundance": 118
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_018",
+    "abundance": 200
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_018",
+    "abundance": 141
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_018",
+    "abundance": 107
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_018",
+    "abundance": 41
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_019",
+    "abundance": 59
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_019",
+    "abundance": 81
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_019",
+    "abundance": 998
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_019",
+    "abundance": 46
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_019",
+    "abundance": 41
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_019",
+    "abundance": 660
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_019",
+    "abundance": 176
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_019",
+    "abundance": 1428
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_019",
+    "abundance": 1234
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_019",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_019",
+    "abundance": 696
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_019",
+    "abundance": 56
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_019",
+    "abundance": 23
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_019",
+    "abundance": 63
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_019",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_019",
+    "abundance": 156
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_019",
+    "abundance": 83
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_019",
+    "abundance": 410
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_019",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_019",
+    "abundance": 92
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_020",
+    "abundance": 4889
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_020",
+    "abundance": 82
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_020",
+    "abundance": 356
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_020",
+    "abundance": 28
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_020",
+    "abundance": 11
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_020",
+    "abundance": 183
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_020",
+    "abundance": 47
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_020",
+    "abundance": 333
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_020",
+    "abundance": 12
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_020",
+    "abundance": 197
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_020",
+    "abundance": 36
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_020",
+    "abundance": 87
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_020",
+    "abundance": 537
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_020",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_020",
+    "abundance": 32
+  },
+  {
+    "target": "Otu00001",
+    "source": "MI_021",
+    "abundance": 238
+  },
+  {
+    "target": "Otu00002",
+    "source": "MI_021",
+    "abundance": 475
+  },
+  {
+    "target": "Otu00003",
+    "source": "MI_021",
+    "abundance": 114
+  },
+  {
+    "target": "Otu00004",
+    "source": "MI_021",
+    "abundance": 35
+  },
+  {
+    "target": "Otu00005",
+    "source": "MI_021",
+    "abundance": 108
+  },
+  {
+    "target": "Otu00006",
+    "source": "MI_021",
+    "abundance": 658
+  },
+  {
+    "target": "Otu00007",
+    "source": "MI_021",
+    "abundance": 483
+  },
+  {
+    "target": "Otu00008",
+    "source": "MI_021",
+    "abundance": 997
+  },
+  {
+    "target": "Otu00009",
+    "source": "MI_021",
+    "abundance": 0
+  },
+  {
+    "target": "Otu00010",
+    "source": "MI_021",
+    "abundance": 10
+  },
+  {
+    "target": "Otu00011",
+    "source": "MI_021",
+    "abundance": 715
+  },
+  {
+    "target": "Otu00012",
+    "source": "MI_021",
+    "abundance": 361
+  },
+  {
+    "target": "Otu00013",
+    "source": "MI_021",
+    "abundance": 44
+  },
+  {
+    "target": "Otu00014",
+    "source": "MI_021",
+    "abundance": 204
+  },
+  {
+    "target": "Otu00015",
+    "source": "MI_021",
+    "abundance": 226
+  },
+  {
+    "target": "Otu00016",
+    "source": "MI_021",
+    "abundance": 37
+  },
+  {
+    "target": "Otu00017",
+    "source": "MI_021",
+    "abundance": 56
+  },
+  {
+    "target": "Otu00018",
+    "source": "MI_021",
+    "abundance": 376
+  },
+  {
+    "target": "Otu00019",
+    "source": "MI_021",
+    "abundance": 85
+  },
+  {
+    "target": "Otu00020",
+    "source": "MI_021",
+    "abundance": 1
+  }
+]}
