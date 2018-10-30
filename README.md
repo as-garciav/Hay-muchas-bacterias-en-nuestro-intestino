@@ -5,9 +5,9 @@ A partir de datos de abundancias absolutas, de bacterias identificadas en el int
 OTU (Operational Taxonomic Unit) table, que contiene en las filas las muestras disponibles y en las columnas los nombres de las bacterias encontradas en muestras fecales de cada uno de los individuos, el valor de cada celda corresponde a la abundancia absoluta de cada bacteria en cada muestra disponible.
 
  - Tipos de datos de interés para la visualización:
- -- Muestra: Categórico de tipo ID
- -- OTU: Categórico de tipo ID
- -- Abundancia absoluta: Ordinal Cuantitativa secuencial (0 - 15000)
+ --- Muestra: Categórico de tipo ID
+ --- OTU: Categórico de tipo ID
+ --- Abundancia absoluta: Ordinal Cuantitativa secuencial (0 - 15000)
  
  ## Why?
  Tarea principal: Idenrificar cuan compartidas se encuentran las bacterias entre las diferentes muestras (Tamara = Summarize:dependency)
