@@ -1,4 +1,4 @@
-# Hay-muchas-bacterias-en-nuestro-intestino
+# Las bacterias son compartidas entre diferentes personas
 A partir de datos de abundancias absolutas, de bacterias identificadas en el intestino humano se pretende conocer cuan compartidas están en una muestra de la población
 
 ## What?
@@ -29,4 +29,8 @@ OTU (Operational Taxonomic Unit) table, que contiene en las filas las muestras d
 - Todas las bacterias tienen un alto número de conexiones con cada una de las personas de la muestra
 - Hay varias bacterias cuya abundancia relativa es muy alta entre todas las muestras
 - De forma aproximada se puede observar que cerca de 4 o 5 personas tienen una "baja" abundancia de casi todas las bacterias por la palidez de la coloración de todos sus links, dichos individuos 12, 18, 20 y 21, pueden ser de interés, ya que bajas abundancias de bacterias en ocasiones se han relacionado con ciertos estados de enfermedad  
+
+## External Links
+Slides: https://docs.google.com/presentation/d/1BKhYl2eR244f0gPyQzwiv3VE-39XMNownsrOCJDtZv4/edit?usp=sharing
+Demo: 
  
