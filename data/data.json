@@ -1,81 +1,5 @@
 {"nodes": [
   {
-    "id": "MI_001",
-    "group": "sample"
-  },
-  {
-    "id": "MI_002",
-    "group": "sample"
-  },
-  {
-    "id": "MI_003",
-    "group": "sample"
-  },
-  {
-    "id": "MI_006",
-    "group": "sample"
-  },
-  {
-    "id": "MI_007",
-    "group": "sample"
-  },
-  {
-    "id": "MI_008",
-    "group": "sample"
-  },
-  {
-    "id": "MI_009",
-    "group": "sample"
-  },
-  {
-    "id": "MI_010",
-    "group": "sample"
-  },
-  {
-    "id": "MI_011",
-    "group": "sample"
-  },
-  {
-    "id": "MI_012",
-    "group": "sample"
-  },
-  {
-    "id": "MI_013",
-    "group": "sample"
-  },
-  {
-    "id": "MI_014",
-    "group": "sample"
-  },
-  {
-    "id": "MI_015",
-    "group": "sample"
-  },
-  {
-    "id": "MI_016",
-    "group": "sample"
-  },
-  {
-    "id": "MI_017",
-    "group": "sample"
-  },
-  {
-    "id": "MI_018",
-    "group": "sample"
-  },
-  {
-    "id": "MI_019",
-    "group": "sample"
-  },
-  {
-    "id": "MI_020",
-    "group": "sample"
-  },
-  {
-    "id": "MI_021",
-    "group": "sample"
-  },
-  {
     "id": "Otu00001",
     "group": "OTU"
   },
@@ -154,6 +78,82 @@
   {
     "id": "Otu00020",
     "group": "OTU"
+  },
+    {
+    "id": "MI_001",
+    "group": "sample"
+  },
+  {
+    "id": "MI_002",
+    "group": "sample"
+  },
+  {
+    "id": "MI_003",
+    "group": "sample"
+  },
+  {
+    "id": "MI_006",
+    "group": "sample"
+  },
+  {
+    "id": "MI_007",
+    "group": "sample"
+  },
+  {
+    "id": "MI_008",
+    "group": "sample"
+  },
+  {
+    "id": "MI_009",
+    "group": "sample"
+  },
+  {
+    "id": "MI_010",
+    "group": "sample"
+  },
+  {
+    "id": "MI_011",
+    "group": "sample"
+  },
+  {
+    "id": "MI_012",
+    "group": "sample"
+  },
+  {
+    "id": "MI_013",
+    "group": "sample"
+  },
+  {
+    "id": "MI_014",
+    "group": "sample"
+  },
+  {
+    "id": "MI_015",
+    "group": "sample"
+  },
+  {
+    "id": "MI_016",
+    "group": "sample"
+  },
+  {
+    "id": "MI_017",
+    "group": "sample"
+  },
+  {
+    "id": "MI_018",
+    "group": "sample"
+  },
+  {
+    "id": "MI_019",
+    "group": "sample"
+  },
+  {
+    "id": "MI_020",
+    "group": "sample"
+  },
+  {
+    "id": "MI_021",
+    "group": "sample"
   }
 ],
 
