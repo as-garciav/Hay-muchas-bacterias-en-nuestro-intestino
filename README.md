@@ -4,10 +4,10 @@ A partir de datos de abundancias absolutas, de bacterias identificadas en el int
 ## What?
 OTU (Operational Taxonomic Unit) table, que contiene en las filas las muestras disponibles y en las columnas los nombres de las bacterias encontradas en muestras fecales de cada uno de los individuos, el valor de cada celda corresponde a la abundancia absoluta de cada bacteria en cada muestra disponible.
 
- - Tipos de datos de interés para la visualización:
- --- Muestra: Categórico de tipo ID
- --- OTU: Categórico de tipo ID
- --- Abundancia absoluta: Ordinal Cuantitativa secuencial (0 - 15000)
+ Tipos de datos de interés para la visualización:
+ - Muestra: Categórico de tipo ID
+ - OTU: Categórico de tipo ID
+ - Abundancia absoluta: Ordinal Cuantitativa secuencial (0 - 15000)
  
  ## Why?
  Tarea principal: Idenrificar cuan compartidas se encuentran las bacterias entre las diferentes muestras (Tamara = Summarize:dependency)
@@ -20,16 +20,13 @@ OTU (Operational Taxonomic Unit) table, que contiene en las filas las muestras d
  ## How?
  IDIOM radial network 
  El primer IDIOM dot and linechart para describir la temperatura promedio de cada día (calculada previamente como parte del procesamiento de los datos para obtener la tabla de "AverageTemperature.txt")
- - Marcar: Líneas y Puntos --> El primero para detallar los cambios en la temperatura por días, el segundo para hacer énfasis en el dato de la temperatura para cada día.
- - Canales: posición en x los números de los días de la semana para su uso en un <Arrange-Tables Express>, posición en y de la temperatura en ªC (ninguno de los datos llega temperaturas inferiores a los 10ªC) tambien con un Encode Arrange Tables Express
- - Encode => Express
+ - Marcas: Líneas y Puntos --> El primero para detallar los datos categóricos como los nodos de la visualización, el segundo para hacer énfasis en la relación entre las bacterias y los individuos de la muestra.
+ - Canales: Arrange Networks and Trees --> Node-Link diagram, Separate by forces (Force directed placement) acompañado de un Layout density
+ - Encode => "Separate" muestras de bacterias, Map por saturación de color la abundancia absoluta de las bacterias en cada uno de los individuos, éste se complementa con el tamaño de la línea correspondiente (link). Todos los datos se observan en conjunto gracias a un Superimpose 
  
- El segundo IDIOM radial line chart para describir la temperatura por horas de cada uno de los días de la semana (los datos preprocesados se encuentran en "TempByDayHour.txt")
-- Marcas: Líneas (Para mostrar las tendencias en los cambios de la temperatura por días
-- Canales: posición radial de los valores de temperatura - Encode Radial Axis Orientation, Order Align para cada una de las horas del día para generar los segmentos en los que se divide el gráfico radial y respetar el caracter cíclico de los datos. 
 
 ## Insights
-- La primera gráfica muestra como a medida que van pasando los días la temperatura promedio tiende a disminuir, a pesar de que el cambio en realidad es de menos de 1ºC 
-- En cuanto a la distribución por horas (pendiente de graficar) los datos son limitados tanto para el primer como para el segundo día, obteniendo datos de la tarde para el primer día y de la madrugada para el último día, lo que puede estar sesgando que la temperatura promedio en el último sea más baja
-- En el gráfico radial se espera observar como la temperatura tiene una tendencia a aumentar hacia el medio día y a disminuir en las noches, siendo similar en los diferentes días.
+- Todas las bacterias tienen un alto número de conexiones con cada una de las personas de la muestra
+- Hay varias bacterias cuya abundancia relativa es muy alta entre todas las muestras
+- De forma aproximada se puede observar que cerca de 4 o 5 personas tienen una "baja" abundancia de casi todas las bacterias por la palidez de la coloración de todos sus links, dichos individuos 12, 18, 20 y 21, pueden ser de interés, ya que bajas abundancias de bacterias en ocasiones se han relacionado con ciertos estados de enfermedad  
  
